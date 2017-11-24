@@ -3,9 +3,10 @@
 
 # Pinterest
 
-![Con titulo](assets/images/pin-image.png "Pinterest")
+![Con titulo](assets/images/pin-image.PNG "Pinterest")
 
 # UX
+
 * Mostrar atajos de guardar y compartir así como también la fuente de referencia al hacer hover sobre las imagenes.
 * En el resultado de la búsqueda se muestra opciones relacionadas a esa búsqueda. 
 * Atajos para subir una imagen.
@@ -21,8 +22,6 @@
 * Muestra opciones de notificaciones.
 
 # UI
-
-![Con titulo](assets/images/objeto-pinterest.png "makeUp")
 
 * Muestra una imagen tipo modal.
 * Diseño de los botones. 
