@@ -22,6 +22,8 @@
 
 # UI
 
+![Con titulo](assets/images/objeto-pinterest.png "Pinterest")
+
 * Muestra una imagen tipo modal.
 * Diseño de los botones. 
 * Barra de navegación. 
