@@ -22,7 +22,7 @@
 
 # UI
 
-![Con titulo](assets/images/objeto-pinterest.png "Pinterest")
+![Con titulo](assets/images/objeto-pinterest.png "makeUp")
 
 * Muestra una imagen tipo modal.
 * Diseño de los botones. 
