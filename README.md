@@ -3,7 +3,7 @@
 
 # Pinterest
 
-![Con titulo](assets/images/pin-image.PNG "Pinterest")
+![Con titulo](assets/images/pin-image.png "Pinterest")
 
 # UX
 
@@ -22,6 +22,8 @@
 * Muestra opciones de notificaciones.
 
 # UI
+
+[Con titulo](assets/images/objeto-pinterest.png "Pinterest")
 
 * Muestra una imagen tipo modal.
 * Diseño de los botones. 
